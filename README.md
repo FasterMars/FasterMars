@@ -1,4 +1,4 @@
-![Cool render I made](https://i.imgur.com/Y6L0ztY.png)
+![Cool render I made](https://i.imgur.com/Dj9XdCM.png)
 ### Hi there, I'm FasterMars (He / Him) 👋
 
 - 🖥 I am a Hobbyist game & software developer
