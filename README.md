@@ -1,4 +1,4 @@
-![Cool render I made](https://i.imgur.com/Dj9XdCM.png)
+[![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=fastermars)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there, I'm FasterMars (He / Him) 👋
 
 - 🖥 I am a Hobbyist game & software developer
