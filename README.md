@@ -1,4 +1,6 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=fastermars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FasterMars' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastermars&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=fastermars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FasterMars' github stats" /></a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastermars&layout=compact&theme=buefy&hide_border=true" /></a>
 ### Hi there, I'm FasterMars (He / Him) 👋
 
 - 🖥 I am a Hobbyist game & software developer
