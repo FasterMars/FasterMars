@@ -7,4 +7,4 @@
 - 📫 Contact me on [Discord](https://discord.com/users/748804344765349929), [Twitter](https://twitter.com/FasterMars), [Reddit](https://www.reddit.com/user/SaltedCoffee9065)
 - 🌐 Visit my website [here](https://fastermars.github.io/fastermars-website/)!
 
-<a href="https://github.com/FasterMars?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastermars&layout=compact&theme=buefy&hide_border=true" /></a>
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FasterMars&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
