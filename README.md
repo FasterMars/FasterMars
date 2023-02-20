@@ -8,5 +8,5 @@
 - 📫 Contact me on [Discord](https://discord.com/users/748804344765349929), [Twitter](https://twitter.com/FasterMars), [Reddit](https://www.reddit.com/user/SaltedCoffee9065)
 - 🌐 Visit my website [here](https://fastermars.github.io/fastermars-website/)!
 
-![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars&show_icons=true&theme=dark)
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FasterMars&layout=compact&theme=dark)](https://github.com/FasterMars?tab=repositories)
+![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars&show_icons=true&theme=light)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FasterMars&layout=compact&theme=light)](https://github.com/FasterMars?tab=repositories)
