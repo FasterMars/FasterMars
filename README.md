@@ -9,5 +9,5 @@
 - 🌐 Visit my website [here](https://fastermars.github.io/fastermars-website/)! [TEMPORARARILY INACTIVE]
 
 
-![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars&show_icons=true&theme=dark)
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FasterMars&layout=compact&theme=dark)](https://github.com/FasterMars?tab=repositories)
+![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars&show_icons=true&theme=dracula)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FasterMars&layout=compact&theme=dracula)](https://github.com/FasterMars?tab=repositories)
