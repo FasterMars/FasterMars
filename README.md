@@ -6,7 +6,7 @@
 - 👜 Working on [Ascension](https://github.com/Lumiere-Labs/last-man-standing) Game in Unity engine
 - 🎮 Latest project: [Flap Game](https://Github.com/Lumiere-Labs/Flap/)
 - 📫 Contact me on [Discord](https://discord.com/users/748804344765349929), [Twitter](https://twitter.com/FasterMars), [Reddit](https://www.reddit.com/user/SaltedCoffee9065)
-- 🌐 Visit my website [here](https://fastermars.github.io/fastermars-website/)! [TEMPORARARILY INACTIVE]
+- 🌐 Visit my website [TEMPORARARILY INACTIVE]
 
 
 ![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars&show_icons=true&theme=light)
